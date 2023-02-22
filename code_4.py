@@ -44,5 +44,5 @@ if __name__ == "__main__":
     min_answer = (get_the_cheapest_big_mac_price_by_year(input_year))
     print(min_answer)
     max_answer = (get_the_most_expensive_big_mac_price_by_year(input_year))
-    print(max_answer)
+    print(max_answer) 
     
